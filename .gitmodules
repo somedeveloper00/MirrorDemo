@@ -1,0 +1,12 @@
+[submodule "Assets/Plugins/Mirror"]
+	path = Assets/Plugins/Mirror
+	url = https://github.com/MirrorNetworking/Mirror
+	branch = master
+[submodule "Assets/Plugins/AnimFlex"]
+	path = Assets/Plugins/AnimFlex
+	url = https://github.com/somedeveloper00/animflex
+	branch = master
+[submodule "Assets/Plugins/GameBuilder"]
+	path = Assets/Plugins/GameBuilder
+	url = https://github.com/somedeveloper00/GameBuilder
+	branch = master

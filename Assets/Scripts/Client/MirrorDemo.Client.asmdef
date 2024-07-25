@@ -1,0 +1,20 @@
+{
+    "name": "MirrorDemo.Client",
+    "rootNamespace": "MirrorDemo.Client",
+    "references": [
+        "Mirror",
+        "MirrorDemo.Common",
+        "Unity.TextMeshPro",
+        "Unity.Collections",
+        "Mirror.Transports"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
